@@ -5,7 +5,7 @@ public class main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method
-		Person person1 = new Person(1,"Moisés",25);
+		Person person1 = new Person(1,"Moisés",25)
 		System.out.println("Hello "+person1.getName().toString());
 	}
 
